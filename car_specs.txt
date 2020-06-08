@@ -1,0 +1,4 @@
+BMW i3,12kWh
+Chevy Bolt,60kWh
+Ford Focus,23KWh
+Nissan Leaf,30KWh

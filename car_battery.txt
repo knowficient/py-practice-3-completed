@@ -1,0 +1,4 @@
+12kWh
+60kWh
+23KWh
+30KWh
